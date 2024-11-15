@@ -1,0 +1,29 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    // warnings
+    "config.too-complex": "Você tem configurações por local ativadas, que são muito complexas para serem alteradas pelo Generic Mod Config Menu. Você pode alterar diretamente o arquivo config.json do mod, ou resetar a configuração do mod para o padrão (clicando nos botões 'Padrão/default' e 'Salvar/save', e reabrindo o jogo).",
+
+    // options
+    "config.grow-crops.name": "Cultivar em qualquer lugar",
+    "config.grow-crops.desc": "Se plantas podem ser cultivadas em todos os lugares.",
+
+    "config.grow-crops-out-of-season.name": "Cultivar em qualquer estação",
+    "config.grow-crops-out-of-season.desc": "Se plantas podem ser cultivadas mesmo se fora de estação. Só se aplica se 'Cultivar em qualquer lugar' também estiver ativo.",
+
+    "config.use-fruit-trees-seasonal-sprites.name": "Sprites sasonais nas árvores frutíferas",
+    "config.use-fruit-trees-seasonal-sprites.desc": "Se árvores frutíferas devem manter seus sprites sasonais (verdadeiro) ou manter sempre seus sprites de verão (falso) quando 'Cultivar em qualquer estação' está ativo.",
+
+    "config.force-till-dirt.name": "Arar qualquer terra",
+    "config.force-till-dirt.desc": "Se todas as áreas de terra podem ser aradas com uma enxada, mesmo as que normalmente não podem.",
+
+    "config.force-till-grass.name": "Arar qualquer grama",
+    "config.force-till-grass.desc": "Se todas as áreas de grama podem ser aradas com uma enxada, mesmo as que normalmente não podem.",
+
+    "config.force-till-stone.name": "Arar qualquer pedra",
+    "config.force-till-stone.desc": "Se todas as áreas de pedra podem ser aradas com uma enxada, mesmo as que normalmente não podem.",
+
+    "config.force-till-other.name": "Arar qualquer outra área",
+    "config.force-till-other.desc": "Se todas as áreas que não são terra, grama ou pedra podem ser aradas com uma enxada, mesmo as que normalmente não podem."
+}
